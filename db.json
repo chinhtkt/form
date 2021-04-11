@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "smart watch",
+      "price": 1
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "price": 2
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "price": 3
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "price": 400
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "price": 5
+    }
+  ]
+}
