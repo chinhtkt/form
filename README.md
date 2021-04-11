@@ -4,10 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Install JSON Server
-npm install -g json-server --port 5000 
+## Start JSON Server
+json-server --watch db.json--port 5000 
 
-to install fake API
-
-Run the front-end
-npm startup
+## Run the front-end
+npm start
